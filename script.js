@@ -1,5 +1,3 @@
-// Lecture: Primitives vs Objects
-
 // We basically know that only numbers, strings, booleans, undefined, and null are primitives and everything else are objects.
 // A big difference between primitives and objects is that variables containing primitives, actually hold that data inside of the variable itself.
 // On objects it's very different. Variables associated with objects do not actually contain the object, but instead they contain a reference to the place in memory where the object sits, so where the object is stored.
